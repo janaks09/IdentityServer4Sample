@@ -1,5 +1,5 @@
 # IdentityServer4Sample
-Sample to build simple Auth server using Identity Server 4 and ASP.NET Identity Membership.
+Simple Auth server sample using Identity Server 4 with ASP.Net Identity Membership.
 
 ## Currently support for Resource Owner Password Flow only.
 
