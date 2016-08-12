@@ -9,7 +9,7 @@ using IdentityServer4.Models;
 using IdentityServer4.Services;
 using Microsoft.AspNetCore.Identity;
 
-namespace DartsCool.Idsvr.Services
+namespace Idsrv4Sample.Services
 {
     public class ProfileService<TUser>: IProfileService
         where TUser: class 

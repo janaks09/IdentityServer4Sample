@@ -1,8 +1,8 @@
-﻿using DartsCool.Idsvr.Models;
+﻿using Idsrv4Sample.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace DartsCool.Idsvr.Contexts
+namespace Idsrv4Sample.Contexts
 {
     public class ApplicationDbContext: IdentityDbContext<ApplicationUser>
     {

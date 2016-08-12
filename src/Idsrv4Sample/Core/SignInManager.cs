@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace DartsCool.Idsvr.Core
+namespace Idsrv4Sample.Core
 {
     public class IdSrvSignInManager<TUser>: SignInManager<TUser>
         where TUser: class 

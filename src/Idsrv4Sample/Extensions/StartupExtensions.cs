@@ -1,14 +1,14 @@
-﻿using DartsCool.Idsvr.Core;
-using DartsCool.Idsvr.Services;
-using IdentityModel;
+﻿using IdentityModel;
 using IdentityServer4;
 using IdentityServer4.Configuration;
 using IdentityServer4.Services;
 using IdentityServer4.Validation;
+using Idsrv4Sample.Core;
+using Idsrv4Sample.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DartsCool.Idsvr.Extensions
+namespace Idsrv4Sample.Extensions
 {
     public static class StartupExtensions
     {

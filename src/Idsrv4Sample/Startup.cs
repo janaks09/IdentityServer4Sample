@@ -1,21 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Configuration;
-using DartsCool.Idsvr.Contexts;
-using DartsCool.Idsvr.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using DartsCool.Idsvr.Configuration;
 using System.Security.Cryptography.X509Certificates;
 using System.IO;
-using DartsCool.Idsvr.Extensions;
+using Idsrv4Sample.Contexts;
+using Idsrv4Sample.Models;
+using Idsrv4Sample.Configuration;
+using Idsrv4Sample.Extensions;
 
 namespace Idsrv4Sample
 {

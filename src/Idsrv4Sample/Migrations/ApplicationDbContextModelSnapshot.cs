@@ -2,8 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
-using DartsCool.Idsvr.Contexts;
+using Idsrv4Sample.Contexts;
 
 namespace Idsrv4Sample.Migrations
 {

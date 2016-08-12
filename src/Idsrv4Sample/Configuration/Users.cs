@@ -4,7 +4,7 @@ using IdentityServer4.Services.InMemory;
 using System.Collections.Generic;
 using System.Security.Claims;
 
-namespace DartsCool.Idsvr.Configuration
+namespace Idsrv4Sample.Configuration
 {
     public class Users
     {

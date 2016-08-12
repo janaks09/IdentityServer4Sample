@@ -1,7 +1,7 @@
 ﻿using IdentityServer4.Models;
 using System.Collections.Generic;
 
-namespace DartsCool.Idsvr.Configuration
+namespace Idsrv4Sample.Configuration
 {
     public class Scopes
     {

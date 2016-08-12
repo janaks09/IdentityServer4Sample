@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using IdentityServer4.Validation;
 using Microsoft.AspNetCore.Identity;
 
-namespace DartsCool.Idsvr.Core
+namespace Idsrv4Sample.Core
 {
     public class ResourceOwnerPasswordValidator<TUser>: IResourceOwnerPasswordValidator 
         where TUser: class
