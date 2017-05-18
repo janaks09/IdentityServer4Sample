@@ -1,3 +1,5 @@
+# Please refer [this new Sample](https://github.com/janaks09/IdentityServer4PersistanceStorageSample) with new version of Identity Server 4 and Entity Framework Core.
+
 # IdentityServer4Sample
 Simple Auth server sample using Identity Server 4 with ASP.Net Identity Membership.
 
